@@ -1,0 +1,22 @@
+{
+  "name": "ac-portfolio",
+  "version": "1.0.0",
+  "description": "Ariana Christos Professional Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitighe1/ac-portfolio.git"
+  },
+  "keywords": [
+    "ariana"
+  ],
+  "author": "Caitlin Tighe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caitighe1/ac-portfolio/issues"
+  },
+  "homepage": "https://github.com/caitighe1/ac-portfolio#readme"
+}
