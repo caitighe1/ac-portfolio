@@ -7,7 +7,7 @@ body {
     background: linear-gradient(270deg, rgba(230,230,240,1) 24%, rgba(153,139,146,1) 80%, rgba(184,178,174,1) 100%);
     font-size: 14px;
 }
-.v121_141 {
+.container {
     width: 100%;
     height: 1024px;
     background: rgba(255,255,255,1);
@@ -17,7 +17,7 @@ body {
     left: 0px;
     overflow: hidden;
   }
-  .v121_142 {
+  .main {
     width: 100%;
     height: 965px;
     background: rgba(196,196,196,0.10000000149011612);
@@ -27,7 +27,7 @@ body {
     left: 44px;
     overflow: hidden;
   }
-  .v122_183 {
+  .icon-div {
     width: 129px;
     height: 29px;
     background: url("../images/v122_183.png");
@@ -76,7 +76,7 @@ body {
   .name {
     color: #fff;
   }
-  .v126_195 {
+  .work-title {
     width: 580px;
     color: rgba(0,0,0,1);
     position: absolute;
@@ -88,7 +88,7 @@ body {
     opacity: 1;
     text-align: left;
   }
-  .v130_206 {
+  .nav-bar {
     width: 570px;
     height: 49px;
     background: url("../images/v130_206.png");
