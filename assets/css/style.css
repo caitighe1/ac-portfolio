@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    background: rgb(230,230,240);
+    background: linear-gradient(270deg, rgba(230,230,240,1) 24%, rgba(153,139,146,1) 80%, rgba(184,178,174,1) 100%);
+    font-size: 14px;
+}
+.v121_141 {
+    width: 100%;
+    height: 1024px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v121_142 {
+    width: 100%;
+    height: 965px;
+    background: rgba(196,196,196,0.10000000149011612);
+    opacity: 1;
+    position: absolute;
+    top: 29px;
+    left: 44px;
+    overflow: hidden;
+  }
+  .v122_183 {
+    width: 129px;
+    height: 29px;
+    background: url("../images/v122_183.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 915px;
+    left: 656px;
+    overflow: hidden;
+  }
+  .v122_180 {
+    width: 29px;
+    height: 29px;
+    background: rgba(196,196,196,0.25);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+  }
+  .v122_181 {
+    width: 29px;
+    height: 29px;
+    background: rgba(196,196,196,0.25);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    border-radius: 50%;
+  }
+  .v122_182 {
+    width: 29px;
+    height: 29px;
+    background: rgba(196,196,196,0.25);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    border-radius: 50%;
+  }
+  .name {
+    color: #fff;
+  }
+  .name {
+    color: #fff;
+  }
+  .v126_195 {
+    width: 580px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 462px;
+    left: 430px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v130_206 {
+    width: 570px;
+    height: 49px;
+    background: url("../images/v130_206.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 29px;
+    left: 827px;
+    overflow: hidden;
+  }
+  .v130_203 {
+    width: 570px;
+    height: 49px;
+    background: rgba(196,196,196,0.20000000298023224);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v130_205 {
+    width: 506px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 8px;
+    left: 32px;
+    font-family: Montserrat;
+    font-weight: Medium;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v136_209 {
+    width: 837px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 230px;
+    left: 136px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 85px;
+    opacity: 1;
+    text-align: left;
+  }
+  
