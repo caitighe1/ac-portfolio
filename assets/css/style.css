@@ -6,6 +6,7 @@ body {
     background: rgb(230,230,240);
     background: linear-gradient(270deg, rgba(230,230,240,1) 24%, rgba(153,139,146,1) 80%, rgba(184,178,174,1) 100%);
     font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -26,7 +27,16 @@ body {
   opacity: .8;
 }
 
-.nav-link {
-  
+.display-4 {
+  font-size: 80px;
 }
 
+.container {
+  margin-left: 55px;
+}
+
+.jumbotron {
+  background: rgb(230,230,240);
+  background: linear-gradient(270deg, rgba(230,230,240,1) 24%, rgba(153,139,146,1) 80%, rgba(184,178,174,1) 100%);
+    
+}
