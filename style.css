@@ -1,0 +1,12 @@
+body {
+    background: rgb(218,232,232);
+    background: linear-gradient(270deg, rgba(218,232,232,1) 38%, rgba(167,195,195,1) 62%);
+}
+
+.main {
+    margin-top: 100px;
+    margin-left: 50px;
+    height: 400px;
+    width: 100%;
+
+}
