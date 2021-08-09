@@ -1,12 +1,73 @@
+:root {
+    --mainfont: 'Montserrat', 'sans-serif';
+}
+
 body {
     background: rgb(218,232,232);
     background: linear-gradient(270deg, rgba(218,232,232,1) 38%, rgba(167,195,195,1) 62%);
 }
 
+
+
 .main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     margin-top: 100px;
-    margin-left: 50px;
     height: 400px;
     width: 100%;
+    margin-left: 110px;
 
 }
+
+
+
+.name {
+    font-family: var(--mainfont);
+    font-size: 50px;
+    color: rgb(69, 65, 65);
+    font-weight: 500;
+    
+   
+}
+
+
+.tagline {
+    font-family: var(--mainfont);
+    font-size: 20px;
+    color: black;
+    
+    
+}
+
+.location {
+    font-family: var(--mainfont);
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    color: black;
+}
+
+
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    margin-left: 100px;
+    float: right;
+    
+}
+
+button {
+    font-family: var(--mainfont);
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 800;
+    color: black;
+    background-color: inherit;
+    height: 80px;
+    width: 200px;
+    border-radius: 9px;
+}
+
